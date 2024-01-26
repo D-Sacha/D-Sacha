@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D-Sacha
 - 👀 I’m interested about the video game / prgramation .
 - 🌱 I’m currently learning the pgramtion with python/html/css
-- 💞️ I’m looking to collaborate with C-Vitalie and R-Bimazgane
+- 💞️ I’m collaborate with C-Vitalie and R-Bimazgane
 - 📫 How to reach me : you don't reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
